@@ -4,6 +4,7 @@
 title: Basic Python for Everyone
 author: Hayat Khan
 logo: logo.png
+  
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -44,3 +45,7 @@ html:
   use_edit_page_button: true
   use_download_button: true
   thebe: true
+  #ignoring the bug report warning
+exclude_patterns:
+  - .github/ISSUE_TEMPLATE/bug_report.md
+  - .github/** 
