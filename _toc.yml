@@ -6,6 +6,7 @@ root: intro
 parts:
   - Caption: About
     chapters:
+      - file: book/About/Instructor.md 
       - file: book/01_getting_started
       - file: markdown
       - file: notebooks
@@ -14,5 +15,4 @@ parts:
   
 
     
-      
-      
+     
