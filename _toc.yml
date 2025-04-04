@@ -9,8 +9,9 @@ parts:
       - file: book/About/Instructor.md 
   - caption: Part I - Basic Python
     chapters:
-      - file: book/PartI/Installation.md
+      - file: book/PartI/Installation
       - file: book/PartI/Expressions
+      - file: book/PartI/Variables
       - file: book/PartI/Strings
       - file: book/PartI/DataStructure
       - file: book/PartI/ControlFlow
