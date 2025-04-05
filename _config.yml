@@ -2,8 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Basic Python for Everyone
-author: Hayat Khan
+author: <a href='https://www.linkedin.com/in/hayat-khan/'> Hayat Khan </a>
 logo: logo.png
+copyright: "2025"
   
 
 # Force re-execution of notebooks on each build.
@@ -45,6 +46,7 @@ html:
   use_edit_page_button: true
   use_download_button: true
   thebe: true
+ 
   #ignoring the bug report warning
 exclude_patterns:
   - .github/ISSUE_TEMPLATE/bug_report.md

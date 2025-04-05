@@ -20,6 +20,7 @@ jupyter:
 
 ### Background  
 I hold an **MS in IT** and a **Master’s in Public Administration** (specializing in *E-Policy & E-Governance*) from *Sungkyunkwan University, Seoul, South Korea*. With  *20 years* of experience in tech, I’ve served as a:  
+- **Lecturer**  
 - **Computer Programmer**  
 - **System Analyst**  
 - **Software Engineer**  
