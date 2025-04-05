@@ -13,9 +13,9 @@ parts:
       - file: book/PartI/Expressions
       - file: book/PartI/Variables
       - file: book/PartI/Strings
-      - file: book/PartI/DataStructure
-      - file: book/PartI/ControlFlow
+      - file: book/PartI/ConditionalStatements
       - file: book/PartI/Loops
+      - file: book/PartI/DataStructure
       - file: book/PartI/Functions
       - file: book/PartI/FileHandling
   - caption: Part II - Geospatial Data Science

@@ -12,6 +12,6 @@ jupyter:
     name: python3
 ---
 
-# Control Flow
+# Conditional Statements
 
 ## Coming Soon

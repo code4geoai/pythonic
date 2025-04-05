@@ -16,13 +16,13 @@ jupyter:
 <!-- #region slideshow={"slide_type": "slide"} -->
 # Expressions
 
-Let's start with some basic expressions. To execute the code online you can open the file in google colab by clicking the button.
+Let's start with some basic expressions. To execute the code online you can open the file in google colab by clicking the colab button below or rocket button above.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/code4geoai/pythonic/blob/main/book/PartI/Expressions.ipynb)
 
 <!-- #endregion -->
 
-### How to execute the code
+## How to execute the code
 When you open the file in colab and select the cell having code and press Ctl/Command + Enter. The code will be executed and you will see the output below the cell. Lets try some basic arithmetic expressions.
 
 ```python
@@ -41,7 +41,7 @@ When you open the file in colab and select the cell having code and press Ctl/Co
 -2 -     -1 
 ```
 
-### Division /
+### Division `/`
 
 ```python slideshow={"slide_type": "slide"}
 14 / 3 
@@ -51,7 +51,7 @@ When you open the file in colab and select the cell having code and press Ctl/Co
 1 / 2
 ```
 
-### Modulus or Reminder Operator %
+### Modulus or Reminder Operator `%`
 
 ```python
 1 % 2
